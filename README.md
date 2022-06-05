@@ -7,6 +7,8 @@
     - discord: giovanni.nocco#3095
     - [linkedin](https://www.linkedin.com/in/giovanni-emanuele-nocco-b31a5169)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanninocco&show_icons=true" alt="giovanninocco" />
+
 <!---
 giovanninocco/giovanninocco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
