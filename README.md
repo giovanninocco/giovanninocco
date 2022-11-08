@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giovanninocco
-- 👀 I’m interested in design and build Enterprise software platform using latest technologies like Microservices Architecture, Machine Learning, Blockchain, and so forth.
-- 🌱 I’m currently learning how to build End-to-end solution using blockchain
+- 👀 I’m interested in design and build Enterprise software platforms using latest technologies like Microservices Architecture, Machine Learning, Blockchain, IoT, and so forth.
+- 🌱 I’m currently learning how to build End-to-End blockchain solution.
 - 💞️ I’m looking to collaborate on build something awesome, for fun or simply to be useful
 - 📫 You can reach me by:
     - email: giovanni.nocco@gmail.com
