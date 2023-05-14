@@ -1,4 +1,20 @@
-- 👋 Hi, I’m @giovanninocco
+<h1 align="center">Hi there, I'm Giovanni Emanuele 👋😲</h1>
+
+<p align="center"> 
+ <a href="https://twitter.com/#" alt="twitter">
+   <img src="https://img.shields.io/badge/-@noccogiovanni-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ </a>
+ <a href="https://github.com/giovanninocco" alt="giovanninocco's github">
+   <img src="https://img.shields.io/badge/-@giovanninocco-%23181717?style=flat-square&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/giovanni-emanuele-nocco-b31a5169" alt="giovanninocco's linkedin">
+   <img src="https://img.shields.io/badge/-giovanninocco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-emanuele-nocco-b31a5169" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=giovanninocco&color=ff69b4&style=flat-square" />
+ </a>
+</p>
+
 - 👀 I’m interested in design and build Enterprise software platforms using latest technologies like Microservices Architecture, Machine Learning, Blockchain, IoT, and so forth.
 - 🌱 I’m currently learning how to build End-to-End blockchain solution.
 - 💞️ I’m looking to collaborate on build something awesome, for fun or simply to be useful
@@ -7,7 +23,6 @@
     - discord: giovanni.nocco#3095 
     - [slack](https://genocs.slack.com/) [giovanninocco]
     - [gitter](https://gitter.im/Genocs/home)
-    - [linkedin](https://www.linkedin.com/in/giovanni-emanuele-nocco-b31a5169)
 
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
